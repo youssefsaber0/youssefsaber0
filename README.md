@@ -18,3 +18,6 @@
 
 <p align="left">
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=youssefsaber0&show_icons=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaber0&layout=compact)]
